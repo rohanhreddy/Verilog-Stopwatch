@@ -1,4 +1,4 @@
-# Rohan H Reddy - 2024A3IS0130G
+# Rohan H Reddy
 
 ## Overview
 This assignment implements a hardware-software co-design of a digital stopwatch. Verilog was primarily used to write the hardware functionality and testbench. The verilog files were compiled and simulated using Icarus Verilog and GTK Wave.
